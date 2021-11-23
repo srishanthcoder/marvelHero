@@ -1,0 +1,17 @@
+.body{
+    background-color: bisque;
+}
+
+.name{
+    color: black;
+}
+
+.words{
+    color: green;
+}
+
+#imageOne{
+    height: 700px;
+    width: 1500;
+    margin: 20px;
+}
